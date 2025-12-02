@@ -2,7 +2,7 @@
   "name": "insighthub",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://<username>.github.io/insighthub/",
+  "homepage": "https://tevuu.github.io/insighthub/",
   "type": "module",
   "scripts": {
     "dev": "vite",
